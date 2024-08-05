@@ -1,4 +1,4 @@
- 👋 Hi, I’m Jason <br>
+ **👋 Hi, I’m Jason** <br>
   I'm a Computer Science student at the University of South Florida <br>
   Let’s connect and explore exciting possibilities together <br>
   Contact me at tpaguan@gmail.com
