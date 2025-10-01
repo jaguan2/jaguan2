@@ -1,7 +1,8 @@
  **👋 Hi, I’m Jason** <br>
-  I'm a Computer Science student at the University of South Florida <br>
+  I'm a Comp Sci graduate from the University of South Florida  <br>
   Let’s connect and explore exciting possibilities together <br>
   Contact me at tpaguan@gmail.com
+  https://www.linkedin.com/in/jaguan
     
 
 
