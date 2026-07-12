@@ -3,7 +3,8 @@
   Let’s connect and explore exciting possibilities together <br>
   Contact me at tpaguan@gmail.com
   https://www.linkedin.com/in/jaguan
-    
+
+  Portfolio: https://jaguan2.github.io/personal-portfolio/
 
 
 <!---
